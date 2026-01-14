@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 200" role="img" aria-label="MediConnect logo">
+  <defs>
+    <linearGradient id="wingGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#0ea5b9"/>
+    </linearGradient>
+  </defs>
+  <!-- person dot -->
+  <circle cx="320" cy="70" r="16" fill="#0ea5b9"/>
+  <!-- wings -->
+  <path d="M320 95c-22 30-60 60-120 60 16-22 36-46 70-60-30-3-62-10-100-30 36-2 84 8 120 30 8 4 22 0 30 0z" fill="url(#wingGrad)" opacity="0.95"/>
+  <path d="M320 95c22 30 60 60 120 60-16-22-36-46-70-60 30-3 62-10 100-30-36-2-84 8-120 30-8 4-22 0-30 0z" fill="url(#wingGrad)" opacity="0.95"/>
+  <!-- V mark -->
+  <path d="M320 95l-26 36c-7 10-20 10-28 0l-26-36c18 8 42 12 80 12 38 0 62-4 80-12l-26 36c-8 10-21 10-28 0z" fill="#0ea5b9"/>
+  <!-- wordmark -->
+  <text x="160" y="170" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="600" fill="#0ea5b9">MediConnect</text>
+</svg>

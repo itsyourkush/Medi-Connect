@@ -1,0 +1,1 @@
+export const hasClerk = Boolean(import.meta.env.VITE_CLERK_PUBLISHABLE_KEY)
